@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="ColdTrick IT Solutions" />
+	<field key="version" value="1.0" />
+	<field key="description" value="A Yammer widget" />
+	<field key="website" value="http://www.coldtrick.com/" />
+	<field key="copyright" value="(C) ColdTrick 2010" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010071002" />
+</plugin_manifest>
+<!--
+
+====================
+Credits
+====================
+This plugin was developed for and funded by Océ Technologies.
+
+====================
+Known issues
+====================
+- When a message is a reply to another message, but this was more the 20 messages ago (in the same thread). No reply is shown.
+
+
+====================
+Version History
+====================
+1.0:
+	- initial version
+
+-->

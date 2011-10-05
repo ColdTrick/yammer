@@ -1,0 +1,4 @@
+====================
+Credits
+====================
+This plugin was developed for and funded by Océ Technologies.
